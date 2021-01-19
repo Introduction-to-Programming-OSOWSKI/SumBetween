@@ -1,16 +1,29 @@
-# **Assignment Title**  
+# **SumBetween**  
 
 ## **Assignment Description**  
-
+Create a function called sumBetween() that returns the sum of all numbers between two given variables x and y. Do not include x and y in the calculation.
 
 ## **Examples**  
->
+>sumBetween(5,7)
+6
+
+>sumBetween(5,10)
+30
+
+>sumBetween(1,2)
+0
+
 
 ## **Limitations**  
+1 for loop 
+0 if 
+0 else  
 
 ## **Hints**  
+in range(x,y) includes x and excludes y  
 
 ## **Concepts**  
+Unit 1, Unit 2, for looops  
 
 ---
 
